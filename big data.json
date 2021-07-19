@@ -1,0 +1,1729 @@
+﻿[
+	{
+		"No": "1",
+		"Keyword": "Komputer",
+		"Nama Jurnal": "Jurnal Ilmu Komputer dan Bisnis (JIKB)",
+		"Instansi": "STMIK Dharmapala Riau",
+		"Website": "https://stmikdharmapalariau.ac.id/ojs/index.php/jikb",
+		"Waktu Terbit": "Mei",
+		"Biaya": " November",
+		"Skor Sinta": "200000",
+		"Tahun Data": "1"
+	},
+	{
+		"No": "2",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Ilmu dan Teknologi Kelautan Tropis (JITKT)",
+		"Instansi": "Intitut Pertanian Bogor",
+		"Website": "https://journal.ipb.ac.id/index.php/jurnalikt ",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1400000"
+	},
+	{
+		"No": "3",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)",
+		"Instansi": "Universitas Brawijawa",
+		"Website": "https://jtiik.ub.ac.id/index.php/jtiik ",
+		"Waktu Terbit": "Februari",
+		"Biaya": " April",
+		"Skor Sinta": " Juni",
+		"Tahun Data": " Agustus"
+	},
+	{
+		"No": "4",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Aplikasi Tenologi Pangan",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal2.undip.ac.id/index.php/jatp/index ",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Mei",
+		"Skor Sinta": " Agustus",
+		"Tahun Data": " November"
+	},
+	{
+		"No": "5",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Intensif: Jurnal Ilmiah Penelitian Teknologi dan Penerapan Sistem Informasi",
+		"Instansi": "Universitas Nuasnatara PGRI Kediri",
+		"Website": "https://ojs.unpkediri.ac.id/index.php/intensif ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "6",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Universitas Negeri Jakarta",
+		"Website": "http://journal.unj.ac.id/unj/index.php/jtp ",
+		"Waktu Terbit": "Juni",
+		"Biaya": "1500000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2018"
+	},
+	{
+		"No": "7",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Ilmu dan Teknologi Pertanian (AGROSAINSTEK)",
+		"Instansi": "Universitas Bangka Belitung",
+		"Website": "https://agrosainstek.ubb.ac.id/index.php/agrosainstek ",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "800000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "8",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Register: Jurnal Ilmiah Teknologi Sistem Informasi",
+		"Instansi": "Universitas Pesantren Tinggi Darul Ulum",
+		"Website": "http://www.journal.unipdu.ac.id/index.php/register/index ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "2500000",
+		"Tahun Data": "1"
+	},
+	{
+		"No": "9",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Pendidikan Teknologi dan Kejuruan",
+		"Instansi": "Universitas Negeri Yogyakarta",
+		"Website": "https://journal.uny.ac.id/index.php/jptk ",
+		"Waktu Terbit": "Mei",
+		"Biaya": " Oktober",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "10",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Teknologi Pertanian",
+		"Instansi": "Universitas Brawijaya",
+		"Website": "https://jtp.ub.ac.id/index.php/jtp/index ",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "11",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Ilmu dan Teknologi Hasil Ternak",
+		"Instansi": "Universitas Brawijaya",
+		"Website": "https://jitek.ub.ac.id/index.php/jitek ",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "900000"
+	},
+	{
+		"No": "12",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Rekayasa Sistem dan Teknologi (RESTI)",
+		"Instansi": "Ikatan Ahli Informatika Indonesia (IAII)",
+		"Website": "http://jurnal.iaii.or.id/index.php/RESTI ",
+		"Waktu Terbit": "Februari",
+		"Biaya": " April",
+		"Skor Sinta": " Juni",
+		"Tahun Data": " Agustus"
+	},
+	{
+		"No": "13",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Teknologi Laboratorium",
+		"Instansi": "Politeknik Kesehatan Kementerian Kesehatan Yogyakarta",
+		"Website": "https://www.teknolabjournal.com/index.php/Jtl ",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "2000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "14",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Marine Fisheries: Jurnal Teknologi dan Managemen Perikanan Laut",
+		"Instansi": "Institut Pertanian Bogor",
+		"Website": "https://journal.ipb.ac.id/index.php/jpsp/index ",
+		"Waktu Terbit": "Mei",
+		"Biaya": " November",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "15",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Industria: Jurnal Teknologi dan Managemen Agroindustri",
+		"Instansi": "Universitas Brawijaya",
+		"Website": "https://industria.ub.ac.id/index.php/industri ",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "500000"
+	},
+	{
+		"No": "16",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Teknologi dan Industri Pangan",
+		"Instansi": "Institut Pertanian Bogor",
+		"Website": "https://journal.ipb.ac.id/index.php/jtip ",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "17",
+		"Keyword": "Teknik Informatika ",
+		"Nama Jurnal": "Jurnal Manajemen",
+		"Instansi": " Teknik Informatika dan Rekayasa Komputer (Matrik)",
+		"Website": "Universitas Bumigora",
+		"Waktu Terbit": "https://journal.universitasbumigora.ac.id/index.php/matrik ",
+		"Biaya": "Mei",
+		"Skor Sinta": " November",
+		"Tahun Data": "500000"
+	},
+	{
+		"No": "18",
+		"Keyword": "Komputer",
+		"Nama Jurnal": "Jurnal Ilmiah Teknik Elektro Komputer dan Informatika",
+		"Instansi": "Universitas Ahmad Dahlan",
+		"Website": "http://journal.uad.ac.id/index.php/JITEKI/ ",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1250000"
+	},
+	{
+		"No": "19",
+		"Keyword": "Sistem Informasi",
+		"Nama Jurnal": "Jurnal Sistem Informasi Bisnis (JSINBIS)",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/jsinbis ",
+		"Waktu Terbit": "Mei",
+		"Biaya": " November",
+		"Skor Sinta": "750000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "20",
+		"Keyword": "Sistem Informasi",
+		"Nama Jurnal": "Jurnal Sistem Informasi ",
+		"Instansi": "Universitas Indonesia",
+		"Website": "http://jsi.cs.ui.ac.id/index.php/jsi ",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "250000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "21",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Kajian Komunikasi",
+		"Instansi": "Universitas Padjadjaran",
+		"Website": "https://jurnal.unpad.ac.id/jkk",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "22",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Communicatus: Jurnal Ilmu Komunikasi",
+		"Instansi": "Universitas Negeri Sunan Gunung Djati",
+		"Website": "https://journal.uinsgd.ac.id/index.php/cjik/",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "23",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Ilmu Komunikasi",
+		"Instansi": "Universitas Atma Jaya Yogyakarta",
+		"Website": "https://ojs.uajy.ac.id/index.php/jik",
+		"Waktu Terbit": "Juni",
+		"Biaya": "200000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2004"
+	},
+	{
+		"No": "24",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Ilmu Komunikasi",
+		"Instansi": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+		"Website": "http://jurnal.upnyk.ac.id/index.php/komunikasi/index",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1500000"
+	},
+	{
+		"No": "25",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Desain Komunikasi Visual & Multimedia",
+		"Instansi": "Universitas Dian Nuswantoro",
+		"Website": "http://publikasi.dinus.ac.id/index.php/andharupa/index",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Agustus",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "26",
+		"Keyword": "Agriculture",
+		"Nama Jurnal": "Journal Of The Indonesia Tropical Animal Agriculture",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/jitaa",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juni",
+		"Skor Sinta": " September",
+		"Tahun Data": " Desember"
+	},
+	{
+		"No": "27",
+		"Keyword": "Agraris",
+		"Nama Jurnal": "Journal Of Agribusiness and Rural Development Research",
+		"Instansi": "Universitas Muhammadiyah Yogyakarta",
+		"Website": "https://journal.umy.ac.id/index.php/ag/issue/archive",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Juli",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "28",
+		"Keyword": "Agri",
+		"Nama Jurnal": "Agritech",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/agritech/",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Mei",
+		"Skor Sinta": " Agustus",
+		"Tahun Data": " November"
+	},
+	{
+		"No": "",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Indonesian Journal of Urban and Environmental Technology",
+		"Instansi": "Universitas Trisakti",
+		"Website": " https://trijurnal.lemlit.trisakti.ac.id/urbanenvirotech/about/editorialTeam ",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "2000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "30",
+		"Keyword": "Agri",
+		"Nama Jurnal": "Jurnal Manajemen & Agribisnis",
+		"Instansi": "Institut Pertanian Bogor",
+		"Website": "https://journal.ipb.ac.id/index.php/jmagr",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "31",
+		"Keyword": "Teknik Elektro",
+		"Nama Jurnal": "Jurnal Teknik Energi Eletrik",
+		"Instansi": " Teknik Telekomunikasi & Teknik Elektronika (ELKOMIKA)",
+		"Website": "Institut Teknologi Bandung",
+		"Waktu Terbit": "https://ejurnal.itenas.ac.id/index.php/elkomika",
+		"Biaya": "Desember",
+		"Skor Sinta": "1250000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "32",
+		"Keyword": "Teknik Elektro",
+		"Nama Jurnal": "Jurnal Nasional Teknik Elektro",
+		"Instansi": "Universita Andalas",
+		"Website": "http://jnte.ft.unand.ac.id/index.php/jnte",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "1500000"
+	},
+	{
+		"No": "33",
+		"Keyword": "System",
+		"Nama Jurnal": "Indonesian Journal of Electronics and Instrumentation Systems (IJEIS)",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/ijeis",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "800000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "34",
+		"Keyword": "Agriculture",
+		"Nama Jurnal": "Ilmu Pertanian (Agricultur science)",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/jip",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "35",
+		"Keyword": "Teknik",
+		"Nama Jurnal": "Jurnal Teknik Industri",
+		"Instansi": "Universitas Muhammadiyah Malang",
+		"Website": "https://ejournal.umm.ac.id/index.php/industri",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Agustus",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "36",
+		"Keyword": "Teknik",
+		"Nama Jurnal": "Jurnal Ilmiah Teknik Industri",
+		"Instansi": "Universitas Muhammadiyah Surakarta",
+		"Website": "http://journals.ums.ac.id/index.php/jiti/index",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "37",
+		"Keyword": "Teknik",
+		"Nama Jurnal": "Media Komunikasi dan Pengembangan Teknik Lingkungan (Jurnal Presipitasi)",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/presipitasi",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "800000"
+	},
+	{
+		"No": "38",
+		"Keyword": "System",
+		"Nama Jurnal": "Indonesian Journal of Computing and Cybernetics Systems (IJCCS)",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/ijccs",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "39",
+		"Keyword": "Teknik",
+		"Nama Jurnal": "Teknik",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/teknik",
+		"Waktu Terbit": "Juli",
+		"Biaya": " Desember",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "40",
+		"Keyword": "Pharmacy",
+		"Nama Jurnal": "Indonesiam Journal of Pharmacy",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "http://indonesianjpharm.farmasi.ugm.ac.id/index.php/3",
+		"Waktu Terbit": "Januari",
+		"Biaya": " April",
+		"Skor Sinta": " Juli",
+		"Tahun Data": " Oktober"
+	},
+	{
+		"No": "41",
+		"Keyword": "Teknik",
+		"Nama Jurnal": "Jurnal Keteknikan Pertanian (JTEP)",
+		"Instansi": "Institut Pertanian Bogor",
+		"Website": "https://journal.ipb.ac.id/index.php/jtep",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "42",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Komunikasi Ikatan Sarjana Komunikasi Indonesia",
+		"Instansi": "Ikatan Sarjana Komunikasi Indonesia",
+		"Website": "http://jurnal-iski.or.id/index.php/jkiski/index",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "43",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Komunikasi ASPIKOM",
+		"Instansi": "Asosiasi Perguruan Tinggi Ilmu Komunikasi",
+		"Website": "http://jurnalaspikom.org/index.php/aspikom",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "2000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "44",
+		"Keyword": "Komunikasi",
+		"Nama Jurnal": "Jurnal Komunikasi",
+		"Instansi": "Universitas DR Soetomo",
+		"Website": "https://jurnal.untan.ac.id/index.php/Elkha",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "350000"
+	},
+	{
+		"No": "45",
+		"Keyword": "Kesehatan",
+		"Nama Jurnal": "Jurnal Kesehatan Lingkungan Indonesia",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/jkli/index",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "46",
+		"Keyword": "Kesehatan",
+		"Nama Jurnal": "Jurnal Promosi Kesehatan Indonesia",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/jpki",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Agustus",
+		"Skor Sinta": "1250000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "47",
+		"Keyword": "Agriculture",
+		"Nama Jurnal": "Caraka Tani : Journal of Sustainable Agriculture",
+		"Instansi": "Universitas Sebelas Maret",
+		"Website": "https://jurnal.uns.ac.id/carakatani/",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "48",
+		"Keyword": "Kesehatan",
+		"Nama Jurnal": "Window of Health : Jurnal Kesehatan",
+		"Instansi": "Universitas Muslim Indonesia",
+		"Website": "http://jurnal.fkmumi.ac.id/index.php/woh",
+		"Waktu Terbit": "Januari",
+		"Biaya": " April",
+		"Skor Sinta": " Juli",
+		"Tahun Data": " Oktober"
+	},
+	{
+		"No": "49",
+		"Keyword": "Kesehatan",
+		"Nama Jurnal": "Jurnal Kesehatan Vokasional",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/jkesvo",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Mei",
+		"Skor Sinta": " Agustur",
+		"Tahun Data": " November"
+	},
+	{
+		"No": "50",
+		"Keyword": "Sistem",
+		"Nama Jurnal": "Jurnal Optimasi Sistem Industri",
+		"Instansi": "Universitas Andalas",
+		"Website": "http://josi.ft.unand.ac.id/index.php/josi/index",
+		"Waktu Terbit": "Januari",
+		"Biaya": "500000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2019"
+	},
+	{
+		"No": "51",
+		"Keyword": "Information",
+		"Nama Jurnal": "Jurnal Sistem Informasi (Journal of Information System)",
+		"Instansi": "Universitas Indonesia",
+		"Website": "https://jsi.cs.ui.ac.id/index.php/jsi",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "250000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "52",
+		"Keyword": "JST",
+		"Nama Jurnal": "Jurnal Sains dan Teknologi (JST)",
+		"Instansi": "Universitas Pendidikan Ganesha",
+		"Website": "https://ejournal.undiksha.ac.id/index.php/JST/",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "1500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "53",
+		"Keyword": "Electro",
+		"Nama Jurnal": "International Journal of Power Elctronics and Drive Systems (IJPEDS)",
+		"Instansi": "Universitas Ahmad Dahlan",
+		"Website": "http://ijpeds.iaescore.com/index.php/IJPEDS",
+		"Waktu Terbit": "Juni",
+		"Biaya": "3710000",
+		"Skor Sinta": "1",
+		"Tahun Data": "2021"
+	},
+	{
+		"No": "54",
+		"Keyword": "Agri",
+		"Nama Jurnal": "Jurnal Agripet",
+		"Instansi": "Universitas Syiah Kuala",
+		"Website": "https://sinta.ristekbrin.go.id/journals/detail?id=1763",
+		"Waktu Terbit": "September",
+		"Biaya": "750000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2019"
+	},
+	{
+		"No": "55",
+		"Keyword": "Informatika",
+		"Nama Jurnal": "Jurnal Edukasi & Penelitian Informatika",
+		"Instansi": "Universitas Tanjungpura",
+		"Website": "https://jurnal.untan.ac.id/index.php/jepin/index",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "56",
+		"Keyword": "Informatika",
+		"Nama Jurnal": "Jurnal Online Informatika",
+		"Instansi": "UIN Sunan Gunung Djati Bandung",
+		"Website": "http://join.if.uinsgd.ac.id/index.php/join",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "57",
+		"Keyword": "Informatika",
+		"Nama Jurnal": "Jurnal Informatika",
+		"Instansi": "Universitas Muhammadiyah Purwokerto",
+		"Website": "http://jurnalnasional.ump.ac.id/index.php/JUITA/index",
+		"Waktu Terbit": "Mei",
+		"Biaya": " November",
+		"Skor Sinta": "750000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "58",
+		"Keyword": "Farmasi",
+		"Nama Jurnal": "Jurnal Ilmu Kefarmasian Indonesia",
+		"Instansi": "Universitas Pancasila",
+		"Website": "http://jifi.farmasi.univpancasila.ac.id/index.php/jifi",
+		"Waktu Terbit": "April",
+		"Biaya": " September",
+		"Skor Sinta": "1250000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "59",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Ilmu dan Teknologi Hasil Ternak",
+		"Instansi": "Universitas Brawijaya",
+		"Website": "https://jitek.ub.ac.id/index.php/jitek",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "900000"
+	},
+	{
+		"No": "60",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Rekayasa Sistem dan Teknologi Informasi",
+		"Instansi": "Ikatan Ahli Informatika Indonesia (IAII)",
+		"Website": "http://jurnal.iaii.or.id/index.php/RESTI",
+		"Waktu Terbit": "Juni",
+		"Biaya": "1000000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2021"
+	},
+	{
+		"No": "61",
+		"Keyword": "Agri",
+		"Nama Jurnal": "Agric",
+		"Instansi": "Universitas Kristen Satya Wacana",
+		"Website": "https://ejournal.uksw.edu/agric",
+		"Waktu Terbit": "Maret",
+		"Biaya": "1000000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2017"
+	},
+	{
+		"No": "62",
+		"Keyword": "Farmasi",
+		"Nama Jurnal": "Pharmaciana : Jurnal Kefarmasian",
+		"Instansi": "Universitas Ahmad Dahlan",
+		"Website": "http://journal.uad.ac.id/index.php/PHARMACIANA/index",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "500000"
+	},
+	{
+		"No": "63",
+		"Keyword": "Aquaculture",
+		"Nama Jurnal": "Journal Of Aquaculture and Fish Health",
+		"Instansi": "Universita Airlangga",
+		"Website": "https://e-journal.unair.ac.id/JAFH",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Juni",
+		"Skor Sinta": " September",
+		"Tahun Data": "350000"
+	},
+	{
+		"No": "64",
+		"Keyword": "Biotek",
+		"Nama Jurnal": "Jurnal Bioteknologi dan Biosains Indonesia",
+		"Instansi": "Badan Pengkajian dan Penerapan Teknologi",
+		"Website": "https://ejurnal.bppt.go.id/index.php/JBBI",
+		"Waktu Terbit": "Juni",
+		"Biaya": "750000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2018"
+	},
+	{
+		"No": "65",
+		"Keyword": "Farmasi",
+		"Nama Jurnal": "Jurnal Sains Farmasi 7 Klinis (JSFK)",
+		"Instansi": "Universitas Andalas",
+		"Website": "http://jsfk.ffarmasi.unand.ac.id/index.php/jsfk",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1200000"
+	},
+	{
+		"No": "66",
+		"Keyword": "Tech",
+		"Nama Jurnal": "International Journal on Advanced Science",
+		"Instansi": " Engeineering",
+		"Website": " and Information Technology",
+		"Waktu Terbit": "Indonesian Society for Knowledge and Human Development",
+		"Biaya": "http://ijaseit.insightsociety.org/",
+		"Skor Sinta": "Ferbuari",
+		"Tahun Data": " April"
+	},
+	{
+		"No": "67",
+		"Keyword": "Tech",
+		"Nama Jurnal": "International Journal of Technology",
+		"Instansi": "Universitas Indonesia",
+		"Website": "https://ijtech.eng.ui.ac.id/",
+		"Waktu Terbit": "April",
+		"Biaya": "8000000",
+		"Skor Sinta": "1",
+		"Tahun Data": "2018"
+	},
+	{
+		"No": "68",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Indonesian Journal of Biotechnology",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/ijbiotech/",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juni",
+		"Skor Sinta": " September",
+		"Tahun Data": " Desember"
+	},
+	{
+		"No": "69",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Science and Technology Indonesia",
+		"Instansi": "Universitas Sriwijaya",
+		"Website": "https://sciencetechindonesia.com/index.php/jsti",
+		"Waktu Terbit": "Januari",
+		"Biaya": " April ",
+		"Skor Sinta": " Juli",
+		"Tahun Data": " Desember"
+	},
+	{
+		"No": "70",
+		"Keyword": "Farmasi",
+		"Nama Jurnal": "Jurnal Farmasi Sains dan Komunitas (Journal of Pharmaceutical Sciences and Community)",
+		"Instansi": "Universitas Sanata Dharma",
+		"Website": "https://e-journal.usd.ac.id/index.php/JFSK",
+		"Waktu Terbit": "Mei",
+		"Biaya": " November",
+		"Skor Sinta": "500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "71",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Journal Of Educational Science and Technology",
+		"Instansi": "Universitas Negeri Makassar",
+		"Website": "https://ojs.unm.ac.id/index.php/JEST/index",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1700000"
+	},
+	{
+		"No": "72",
+		"Keyword": "Engineering",
+		"Nama Jurnal": "Jurnal Rekayasa Kimia dan Lingkungan (Journal of Chemical Engineering and Environment)",
+		"Instansi": "Universitas Syiah Kuala",
+		"Website": "http://www.jurnal.unsyiah.ac.id/RKL",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1500000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "73",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "International Journal of Power Electronics and Drive Systems ",
+		"Instansi": "Universitas Ahmad Dahlan (UAD) ",
+		"Website": "http://ijpeds.iaescore.com/index.php/IJPEDS",
+		"Waktu Terbit": "Juni",
+		"Biaya": "3700000",
+		"Skor Sinta": "1",
+		"Tahun Data": "2021"
+	},
+	{
+		"No": "74",
+		"Keyword": "Engineering",
+		"Nama Jurnal": "Bulletin of Electrical Engineering and Informatics",
+		"Instansi": "Universitas Ahmad Dahlan",
+		"Website": "https://beei.org/index.php/EEI",
+		"Waktu Terbit": "Ferbuari",
+		"Biaya": " April",
+		"Skor Sinta": " Juni",
+		"Tahun Data": " Agustus"
+	},
+	{
+		"No": "75",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "The Electronic Journal of Graph Theory and Applications (EJGTA)",
+		"Instansi": "Indonesian Combinatorial Society (InaCombS)",
+		"Website": " Graph Theory and Applications (GTA) ",
+		"Waktu Terbit": "https://ejgta.org/index.php/ejgta/index",
+		"Biaya": "Juni",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "76",
+		"Keyword": "Engineering",
+		"Nama Jurnal": "Jounal og Engineering and Technological Sciences",
+		"Instansi": "Intitut Teknologi Bandung",
+		"Website": "http://journals.itb.ac.id/index.php/jets",
+		"Waktu Terbit": "Maret",
+		"Biaya": "100000",
+		"Skor Sinta": "1",
+		"Tahun Data": "2018"
+	},
+	{
+		"No": "77",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Medical Labolatory Technology Journal",
+		"Instansi": "Poltekkes Kemenkes Banjarmasin",
+		"Website": "http://ejurnal-analiskesehatan.web.id/index.php/JAK",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "450000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "78",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Journal Of Islamic Science and Technology",
+		"Instansi": "Universitas Negeri Ar-Raniry",
+		"Website": "https://jurnal.ar-raniry.ac.id/index.php/elkawnie",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "79",
+		"Keyword": "Informatika",
+		"Nama Jurnal": "Khazanah Informatika: Jurnal Ilmu Komputer dan Informatika",
+		"Instansi": "Muhammadiyah University Press",
+		"Website": "http://journals.ums.ac.id/index.php/khif",
+		"Waktu Terbit": "Agustus",
+		"Biaya": "1300000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2015"
+	},
+	{
+		"No": "80",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Computer",
+		"Instansi": " Mathemathics and Engineering Application (COMTECH)",
+		"Website": "Universitas Bina Nusantara",
+		"Waktu Terbit": "https://journal.binus.ac.id/index.php/comtech/index",
+		"Biaya": "Juni",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "2000000"
+	},
+	{
+		"No": "81",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Journal Of Geoscience",
+		"Instansi": " Engineering",
+		"Website": " Environment and Technology (JGEET)",
+		"Waktu Terbit": "Universitas Islam Riau",
+		"Biaya": "https://journal.uir.ac.id/index.php/JGEET",
+		"Skor Sinta": "Maret",
+		"Tahun Data": " Juni"
+	},
+	{
+		"No": "82",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Internasional Journal Of Engineering Technology (EMITTER)",
+		"Instansi": "Politeknik Elektronika Negeri Surabaya",
+		"Website": "https://emitter.pens.ac.id/index.php/emitter/index",
+		"Waktu Terbit": "Oktober",
+		"Biaya": "1750000",
+		"Skor Sinta": "2",
+		"Tahun Data": "2017"
+	},
+	{
+		"No": "83",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Game Technology",
+		"Instansi": " Information System",
+		"Website": " Computer Network",
+		"Waktu Terbit": " Computing",
+		"Biaya": " Electronics",
+		"Skor Sinta": " and Control (KINETIK)",
+		"Tahun Data": "Universitas Negeri Muhammadiyah Malang"
+	},
+	{
+		"No": "84",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Journal Of Education Technology",
+		"Instansi": "Universitas Pendidikan Ganesha",
+		"Website": "https://ejournal.undiksha.ac.id/index.php/JET",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Mei",
+		"Skor Sinta": " Agustus",
+		"Tahun Data": " November"
+	},
+	{
+		"No": "85",
+		"Keyword": "Engineering",
+		"Nama Jurnal": "Bulletin of Chemical Reaction Engineering & Catalysis",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal2.undip.ac.id/index.php/bcrec",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1500000"
+	},
+	{
+		"No": "86",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Journal Of Education Science and Technology",
+		"Instansi": "Universitas Negeri Makassar",
+		"Website": "https://ojs.unm.ac.id/JEST/index",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1700000"
+	},
+	{
+		"No": "87",
+		"Keyword": "Computing",
+		"Nama Jurnal": "International Journal of Computing Science and Applied Mathematics (IJCSAM)",
+		"Instansi": "Institut Teknologi Sepuluh Nopember",
+		"Website": "http://iptek.its.ac.id/index.php/ijcsam",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juni",
+		"Skor Sinta": " Desember",
+		"Tahun Data": "1500000"
+	},
+	{
+		"No": "88",
+		"Keyword": "Artificial",
+		"Nama Jurnal": "International Journal of Artificial Intelligence Research ",
+		"Instansi": "STMIK Dharma Wacana",
+		"Website": "http://ijair.id/index.php/ijair/index",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "2900000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "89",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Teknologi & Industri Hasil Pertanian",
+		"Instansi": "Tarbiyah Faculty of IAIM NU Metro Lampung.",
+		"Website": "https://journal.iaimnumetrolampung.ac.id/index.php/ji",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "90",
+		"Keyword": "Artificial",
+		"Nama Jurnal": "International Journal of Artificial Intelligence (IAES)",
+		"Instansi": "Institute of Advanced Engineering and Science (IAES)",
+		"Website": "http://ijai.iaescore.com/index.php/IJAI",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juni",
+		"Skor Sinta": " September",
+		"Tahun Data": " Desember"
+	},
+	{
+		"No": "91",
+		"Keyword": "Tech",
+		"Nama Jurnal": "Journal Of Tropical Biodiversity and Biotechnology",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "https://jurnal.ugm.ac.id/jtbb",
+		"Waktu Terbit": "September",
+		"Biaya": "1500000",
+		"Skor Sinta": "1",
+		"Tahun Data": "2020"
+	},
+	{
+		"No": "92",
+		"Keyword": "Agri",
+		"Nama Jurnal": "AGRIVITA",
+		"Instansi": " Journal of Agricultural Science (AJAS)",
+		"Website": "Univeritas Brawijaya",
+		"Waktu Terbit": "https://agrivita.ub.ac.id/index.php/agrivita",
+		"Biaya": "Februari",
+		"Skor Sinta": " Juni",
+		"Tahun Data": " Oktober"
+	},
+	{
+		"No": "93",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal ilmu dan teknologi hasil ternak ",
+		"Instansi": "Bagian Teknologi Hasil Ternak Fakultas Peternakan Universitas Brawijaya",
+		"Website": "https://jitek.ub.ac.id/index.php/jitek",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": "900000"
+	},
+	{
+		"No": "94",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal ilmu dan teknologi kayu tropis",
+		"Instansi": "Departemen Hasil Hutan Fakultas Kehutanan Institut Pertanian Bogor Kampus IPB Darmaga Bogor 16680 bogor",
+		"Website": "http://ejournalmapeki.org/index.php/JITKT",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "100000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "95",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "AGROINTEK (jurnal teknologi industri pertanian )",
+		"Instansi": "Faculty of Agriculture",
+		"Website": " University of Trunojoyo Madura",
+		"Waktu Terbit": "https://journal.trunojoyo.ac.id/agrointek/index",
+		"Biaya": "Juni ",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "96",
+		"Keyword": "Teknik Informatika",
+		"Nama Jurnal": "ELINVO ( electronics",
+		"Instansi": " informatics and vocational education )",
+		"Website": "Jurusan Pendidikan Teknik Elektronika Fakultas Teknik Universitas Negeri Yogyakarta (UNY)",
+		"Waktu Terbit": "https://journal.uny.ac.id/index.php/elinvo",
+		"Biaya": "November",
+		"Skor Sinta": "1000000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "97",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Pendidikan Teknologi dan Kejuruan (JPTK )",
+		"Instansi": "Faculty of Engineering",
+		"Website": " Universitas Negeri Yogyakarta in collaboration with Masyarakat Peneliti Pendidikan Indonesia (MPPI)",
+		"Waktu Terbit": "https://journal.uny.ac.id/index.php/jptk",
+		"Biaya": "Desember",
+		"Skor Sinta": "350000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "98",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal teknologi industri pertanian",
+		"Instansi": "Departemen Teknologi Industri Pertanian",
+		"Website": " Institut Pertanian Bogor",
+		"Waktu Terbit": "https://journal.ipb.ac.id/index.php/jurnaltin/index",
+		"Biaya": "Desember",
+		"Skor Sinta": "14000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "99",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal sains & teknologi modifikasi cuaca ",
+		"Instansi": "Balai Besar Teknologi Modifikasi Cuaca BPPT",
+		"Website": "https://jsbin.com/qogabi/3/edit?html",
+		"Waktu Terbit": "output",
+		"Biaya": "Juni",
+		"Skor Sinta": "100000",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "100",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Teknologi & Industri Hasil Pertanian",
+		"Instansi": "Jurusan Teknologi Hasil Pertanian",
+		"Website": " Fakultas Pertanian",
+		"Waktu Terbit": " Universitas Lampung",
+		"Biaya": "http://jurnal.fp.unila.ac.id/index.php/JTHP/issue/archive",
+		"Skor Sinta": "Oktober ",
+		"Tahun Data": "1000000"
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "",
+		"Nama Jurnal": "",
+		"Instansi": "",
+		"Website": "",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "",
+		"Tahun Data": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": ""
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Jurnal Kajian Teknologi Pendidikan (JKTP)",
+		"Instansi": "Universitas Negeri Malang",
+		"Website": "http://journal2.um.ac.id/index.php/jktp",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Mei",
+		"Skor Sinta": " Agustus",
+		"Tahun Data": " November"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Akademia Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Universitas Islam As-Syafiiyah",
+		"Website": "https://uia.e-journal.id/index.php/akademika/ ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "750000",
+		"Tahun Data": "4"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Edcomtech: Jurnal Kajian Teknologi Pendidikan (JKTP)",
+		"Instansi": "Universitas Negeri Malang",
+		"Website": "http://journal2.um.ac.id/index.php/edcomtech/index ",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "350000",
+		"Tahun Data": "3"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Jurnal Inovasi Teknologi Pendidikan (JITP)",
+		"Instansi": "Universitas Negeri Yogyakarta",
+		"Website": "https://journal.uny.ac.id/index.php/jitp/oai ",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "500000",
+		"Tahun Data": "3"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Edutech: Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Universitas Pendidikan Indonesia",
+		"Website": "https://ejournal.upi.edu/index.php/edutech ",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Juni",
+		"Skor Sinta": " Oktober",
+		"Tahun Data": "500000"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Educate: Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Universitas Ibn Khaldun Bogor",
+		"Website": "http://ejournal.uika-bogor.ac.id/index.php/EDUCATE ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "350000",
+		"Tahun Data": "4"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Universitas Negeri Medan",
+		"Website": "https://jurnal.unimed.ac.id/2012/index.php/jtp/index ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "0",
+		"Tahun Data": "4"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Universitas Ibn Khaldun Bogor",
+		"Website": "http://ejournal.uika-bogor.ac.id/index.php/TEK ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "350000",
+		"Tahun Data": "4"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Jurnal Teknologi Pendidikan Madrasah (JTPM)",
+		"Instansi": "Institut Agama Islam Al- Mawaddah Kolaka",
+		"Website": "http://journal.iaialmawar.ac.id/index.php/jtpm/index ",
+		"Waktu Terbit": "Desember",
+		"Biaya": "",
+		"Skor Sinta": "6",
+		"Tahun Data": "2020"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Nasional Teknik Elektro dan Teknologi Informasi (JNTETI)",
+		"Instansi": "Universitas Gadjah Mada",
+		"Website": "http://ejnteti.jteti.ugm.ac.id/index.php/JNTETI/ ",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Mei",
+		"Skor Sinta": " Agustus",
+		"Tahun Data": " November"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Ilmu Pengetahuan dan Teknologi Komunikasi (IPTEK-KOM)",
+		"Instansi": "Kementerian Komunikasi dan Informatika",
+		"Website": "https://jurnal.kominfo.go.id/index.php/iptekkom ",
+		"Waktu Terbit": "Juni",
+		"Biaya": " Desember",
+		"Skor Sinta": "0",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Teknologi Llingkungan",
+		"Instansi": "Badan Pengkajian dan Penerapan Teknologi",
+		"Website": "https://ejurnal.bppt.go.id/index.php/JTL/issue/archive ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Juli",
+		"Skor Sinta": "",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Sains dan Teknologi (JST)",
+		"Instansi": "Univeristas Pendidikan Ganesha",
+		"Website": "https://ejournal.undiksha.ac.id/index.php/JST/ ",
+		"Waktu Terbit": "April",
+		"Biaya": " Oktober",
+		"Skor Sinta": "0",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Lontar Komputer: Jurnal Ilmiah Teknologi Informasi",
+		"Instansi": "Universitas Udayana",
+		"Website": "https://ojs.unud.ac.id/index.php/lontar ",
+		"Waktu Terbit": "April",
+		"Biaya": " Agustus",
+		"Skor Sinta": " Desember",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Teknologi dan Sistem Komputer",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://jtsiskom.undip.ac.id/index.php/jtsiskom/index ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " April",
+		"Skor Sinta": " Juli",
+		"Tahun Data": " Oktober"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Pengkajian dan Pengembangan Teknologi Pertanian (JPPTP)",
+		"Instansi": "Kementerian Pertanian",
+		"Website": "http://ejurnal.litbang.pertanian.go.id/index.php/jpengkajian ",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juli",
+		"Skor Sinta": " November",
+		"Tahun Data": ""
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi",
+		"Nama Jurnal": "Jurnal Riset Teknologi Pencegaham Pencemaran Industri",
+		"Instansi": "Kementerian Perindustrian",
+		"Website": "http://jrtppi.id/index.php/jrtppi ",
+		"Waktu Terbit": "",
+		"Biaya": "0",
+		"Skor Sinta": "2",
+		"Tahun Data": "2010"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi Pendidikan",
+		"Nama Jurnal": "Kwangsan: Jurnal Teknologi Pendidikan (JTP)",
+		"Instansi": "Kementerian Pendidikan dan Kebudayaan",
+		"Website": "https://jurnalkwangsan.kemdikbud.go.id/index.php/jurnalkwangsan ",
+		"Waktu Terbit": "Juli",
+		"Biaya": " Desember",
+		"Skor Sinta": "0",
+		"Tahun Data": "2"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Ilmu dan Teknologi Pertenakan Tropis",
+		"Instansi": "Universitas Halu Oleo",
+		"Website": "http://ojs.uho.ac.id/index.php/peternakan-tropis/index ",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "2",
+		"Tahun Data": "2019"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Bioteknologi dan Biosains Indonesia",
+		"Instansi": "Badan Pengkajian dan Penerapan Teknologi",
+		"Website": "https://ejurnal.bppt.go.id/index.php/JBBI ",
+		"Waktu Terbit": "",
+		"Biaya": "",
+		"Skor Sinta": "2",
+		"Tahun Data": "2018"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Ilmu Pengetahuan dan Teknologi Kelautan (KAPAL)",
+		"Instansi": "Universitas Diponegoro",
+		"Website": "https://ejournal.undip.ac.id/index.php/kapal ",
+		"Waktu Terbit": "Februari",
+		"Biaya": " Juni",
+		"Skor Sinta": " Oktober",
+		"Tahun Data": "0"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Teknologi Mineral dan Batubara",
+		"Instansi": "Kementerian Energi dan Sumber Daya Mineral",
+		"Website": "https://jurnal.tekmira.esdm.go.id/index.php/minerba ",
+		"Waktu Terbit": "Januari",
+		"Biaya": " Mei",
+		"Skor Sinta": " September",
+		"Tahun Data": "0"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Managemen Teknologi",
+		"Instansi": "Institut Teknologi Bandung",
+		"Website": "https://journal.sbm.itb.ac.id/index.php/mantek",
+		"Waktu Terbit": "",
+		"Biaya": "0",
+		"Skor Sinta": "2",
+		"Tahun Data": "2017"
+	},
+	{
+		"No": "",
+		"Keyword": "Teknologi ",
+		"Nama Jurnal": "Jurnal Sistem dan Teknologi Informasi (JUSTIN)",
+		"Instansi": "Universitas Tanjungpura",
+		"Website": "https://jurnal.untan.ac.id/index.php/justin/index ",
+		"Waktu Terbit": "Maret",
+		"Biaya": " Juni",
+		"Skor Sinta": " September",
+		"Tahun Data": " Desember"
+	},
+	{
+		"No": ""
+	}
+]
